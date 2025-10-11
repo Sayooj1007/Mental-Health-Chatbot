@@ -21,3 +21,11 @@ pip install -r requirements.txt
 - Add your API key to the environment variable `GEMINI_API_KEY` replace the code with your actual API key.
 
 ## Usage
+### 1. Run the Streamlit application:
+```
+streamlit run app.py
+```
+### 2. Open the provided URL (typically http://localhost:8501) in your web browser.
+### 3. Start interacting with the chatbot:
+- Type your message in the input box and press "Send."
+- The chatbot will respond to your message, analyze the sentiment, track your mood, and provide coping strategies as needed.
