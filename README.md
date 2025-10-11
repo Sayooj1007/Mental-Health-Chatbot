@@ -29,3 +29,7 @@ streamlit run app.py
 ### 3. Start interacting with the chatbot:
 - Type your message in the input box and press "Send."
 - The chatbot will respond to your message, analyze the sentiment, track your mood, and provide coping strategies as needed.
+## Project Structure
+- `app.py`: The main application file containing the Streamlit code and logic for the chatbot.
+- `Pages/History.py`: Contain the code for the conversation history.
+- `requirements.txt`: List of required Python packages.
